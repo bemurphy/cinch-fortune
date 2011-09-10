@@ -6,11 +6,11 @@ Plays back unix style fortunes to users, using the `fortune_gem`.
 Installation
 ------------
 
-if you haven't already...
+if you haven't already:
 
   $ gem install cinch
 
-then install this gem.
+then install this gem:
 
   $ gem install cinch-fortune
 
