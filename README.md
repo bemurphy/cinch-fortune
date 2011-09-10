@@ -1,7 +1,7 @@
 Cinch-Fortune
 =============
 
-Plays back unix style fortunes to users, using the `fortune_gem`.
+Unix style fortunes to users for IRC.
 
 Installation
 ------------

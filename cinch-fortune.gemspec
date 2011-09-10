@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Cinch::Fortune::VERSION
   s.authors     = ["Brendon Murphy"]
   s.email       = ["xternal1+github@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/bemurphy/cinch-fortune"
+  s.summary     = %q{Unix style fortunes to users for IRC.}
+  s.description = s.summary
 
   s.rubyforge_project = "cinch-fortune"
 
